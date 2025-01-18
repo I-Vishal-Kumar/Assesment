@@ -1,5 +1,4 @@
 import { Box, Container } from '@mui/material';
-import dynamic from 'next/dynamic';
 import Header from './components/Header';
 import { MainSection } from './components/MainSection';
 import { RightSection } from './components/RightSection';

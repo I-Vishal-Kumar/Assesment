@@ -58,7 +58,7 @@ export default function Header() {
         <AppBar position="fixed">
             <Toolbar>
                 <Typography
-                    variant="subtitle1"
+                    variant="h6"
                     noWrap
                     component="div"
                 >
